@@ -1,5 +1,5 @@
 # Windows Driver pack for OnePlus 7(T) (Pro) based on [SurfaceDuo-Drivers](https://github.com/WOA-Project/SurfaceDuo-Drivers/)
-## [Here](https://github.com/woa-msmnile/windows_oneplus_platforms) is the Full Driver Pack.
+## [Here](https://github.com/Project-Aloha/windows_oneplus_platforms) is the Full Driver Pack.
 
 ![OnePlus 7T Pro Windows](https://user-images.githubusercontent.com/13377926/206026203-99d11de4-5669-467d-9085-95916beca1dc.png)
 
@@ -21,5 +21,5 @@ Please see [LICENSE](LICENSE.md)
 For preserving charset encoding, please checkout with using:
 
 ```
-git clone -c core.autocrlf=false https://github.com/woa-msmnile/windows_oneplus_platforms
+git clone -c core.autocrlf=false https://github.com/Project-Aloha/windows_oneplus_platforms
 ```
